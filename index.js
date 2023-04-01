@@ -1,6 +1,8 @@
 const express = require("express");
 const app = express();
 const product = require('./tour-product')
+const cors = require('cors')
+app.use(cors({ origin: "*" }));
 app.get("/api/tour", (req, res) => {
   res.json(product);
 });
