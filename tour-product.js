@@ -4,7 +4,7 @@ const product = [
     name: "Aksum",
     info: "Aksum is a city in northern Ethiopia. It's known for its tall, carved obelisks, relics of the ancient Kingdom of Aksum. Most are in the northern Stelae Park, including a huge fallen pillar, now in pieces. Centuries-old St. Mary of Zion is a Christian church and pilgrimage site believed to have housed the biblical Ark of the Covenant. ",
     image:
-      "https://dl.airtable.com/.attachments/a0cd0702c443f31526267f38ea5314a1/2447eb7a/paris.jpg",
+      "https://media.istockphoto.com/id/186914973/es/foto/obelisco-del-aksum-unido-etiop%C3%ADa.jpg?s=612x612&w=0&k=20&c=rpGhoG5sQjYapzTKT4al9bknrQvZ42CAkER0kf4HFp8=",
     price: "1,995",
   },
   {
@@ -38,6 +38,6 @@ const product = [
     image:
       "https://dl.airtable.com/.attachments/3feee7a93af0f4f809312132090c9a80/58e3e8ec/poland.jpeg",
     price: "2,595",
-  }
+  },
 ];
 module.exports = product;
