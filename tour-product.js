@@ -35,7 +35,7 @@ const product = [
     id: "receAEzz86KzW2gvH",
     name: "Ras Dashen",
     info: "Ras Dashen, also known as Ras Dejen, is the highest mountain in Ethiopia and fourteenth highest peak in Africa. Located in the Simien Mountains National Park in the North Gondar Zone of the Amhara Region, it reaches an elevation of 4,550 metres.",
-    image: "https://borkena.com/wp-content/uploads/2016/09/Ras-Dejen.jpg",
+    image: "https://cdn.tourradar.com/s3/tour/1500x800/155452_8181b581.jpg",
     price: "2,595",
   },
 ];
